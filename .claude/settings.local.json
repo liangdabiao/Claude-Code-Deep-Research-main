@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(done:*)",
+      "Bash(find:*)",
+      "WebSearch",
+      "mcp__playwright__browser_navigate",
+      "Bash(mkdir -p \"D:\\\\Claude-Code-Deep-Research-main\\\\Claude-Code-Deep-Research-main\\\\RESEARCH\\\\Michael_Jackson_China_Popularity\")",
+      "mcp__playwright__browser_type",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_snapshot",
+      "Bash(dir /s /b)",
+      "Bash(dir \"RESEARCH\"\" 2>nul || echo \"No RESEARCH directory found \")",
+      "Bash(dir RESEARCH)",
+      "Bash(dir RESEARCHMichael_Jackson_China_Popularity /B)",
+      "Bash(dir /S /B \"RESEARCH\\\\Michael_Jackson_China_Popularity\")",
+      "Bash(dir \"D:\\\\Claude-Code-Deep-Research-main\\\\Claude-Code-Deep-Research-main\" /B)",
+      "Bash(findstr /i \"README\")"
+    ]
+  }
+}
